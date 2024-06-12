@@ -1,12 +1,9 @@
 package org.example;
-
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
-import java.time.format.ResolverStyle;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
