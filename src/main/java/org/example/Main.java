@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Введите фамилию, имя, отчество и дату в формате ДД.ММ.ГГГГ");
+        System.out.println("Здравствуйте! Введите фамилию, имя, отчество и дату в формате ДД.ММ.ГГГГ");
         Scanner scanner = new Scanner(System.in);
         String surname = scanner.next();
         String name = scanner.next();
